@@ -14,9 +14,9 @@ More!
 $$x=y$$
 
 $$
-test \tag{1}
+test \tag{eq:1}
 $$
 
-\eqref{1}
+\eqref{eq:1}
 
 ...
