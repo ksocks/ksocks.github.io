@@ -14,7 +14,7 @@ More!
 $$x=y$$
 
 $$
-test \label{1}
+test \tag{1}
 $$
 
 \eqref{1}
