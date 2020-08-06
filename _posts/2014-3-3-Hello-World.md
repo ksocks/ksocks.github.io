@@ -17,4 +17,4 @@ $$
 test \label{eq:one}\tag{eq:one}
 $$
 
-$$\ref{eq:one}$$
+\eqref{eq:one}
